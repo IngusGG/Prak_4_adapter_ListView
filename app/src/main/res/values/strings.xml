@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prak_4_adapter_ListView</string>
+    <string name="quantity_text" translatable="false">%d %s</string>
+</resources>
